@@ -1,0 +1,51 @@
+# UAUA Dual License
+
+Copyright (C) 2025 – Mohsen Saadati  
+All rights reserved.  
+Email: msn.saadati@gmail.com  
+Zenodo DOI: https://zenodo.org/records/17679648
+
+----------------------------------------------------
+1. UAUA INDUSTRIAL LICENSE – COMMERCIAL USE RESTRICTED
+----------------------------------------------------
+
+Commercial, industrial, governmental, or organizational use of the  
+UAUA (Unified Agent University Architecture) — including but not limited to:
+
+- Integration into products, platforms, or systems  
+- Use inside commercial AI agents  
+- Use for enterprise internal architecture  
+- Derivative commercial frameworks  
+- Training programs, SaaS products, paid software, or paid services  
+
+is **strictly prohibited without a valid commercial license** purchased from the author.
+
+To obtain a commercial license, contact:  
+**msn.saadati@gmail.com**
+
+Unauthorized commercial use of UAUA is a violation of this license and will be pursued as intellectual property infringement.
+
+----------------------------------------------------
+2. CREATIVE COMMONS ATTRIBUTION 4.0 INTERNATIONAL
+----------------------------------------------------
+
+For academic, educational, and non-commercial research use, the UAUA is licensed under:
+
+**CC BY 4.0**  
+You may use, share, and adapt the material provided that proper attribution is given.
+
+Full license text:  
+https://creativecommons.org/licenses/by/4.0/
+
+----------------------------------------------------
+3. GENERAL TERMS
+----------------------------------------------------
+
+- The dual-license structure applies globally.  
+- Non-commercial users must retain attribution to the author in any reuse.  
+- Commercial users must acquire licensing prior to usage.  
+- The Zenodo record (Version 1.0) serves as the official reference edition.  
+
+----------------------------------------------------
+End of License
+----------------------------------------------------
